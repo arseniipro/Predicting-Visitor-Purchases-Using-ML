@@ -14,3 +14,10 @@ In this lab, the following tasks should be performed :
 * Creating a classification, and logistic regression model in BigQuery ML;
 * Evaluating the performance of created machine learning model;
 * And predicting and ranking the probability that a visitor will make a purchase. 
+
+# Results
+
+* Of the top 6% of first-time visitors (sorted in decreasing order of predicted probability), more than 6% make a purchase in a later visit.
+* These users represent nearly 50% of all first-time visitors who make a purchase in a later visit.
+* Overall, only 0.7% of first-time visitors make a purchase in a later visit.
+* Targeting the top 6% of first-time increases marketing ROI by 9x vs targeting them all!
